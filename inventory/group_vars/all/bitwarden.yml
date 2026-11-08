@@ -1,0 +1,3 @@
+# ansible/inventory/group_vars/all/bitwarden.yml
+bw_org: "7776766e-c4be-4c5a-8276-4c65e50808c2"
+bw_infra: "4a33f2ae-7316-406a-98b0-8999ab4708c6"
